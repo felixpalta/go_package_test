@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	wololo "wololo/lib"
+	wololo "github.com/lolportal/go_package_test/lib"
 )
 
 func main() {
